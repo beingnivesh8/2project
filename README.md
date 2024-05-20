@@ -1,2 +1,2 @@
 # 2project
-PhonePe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly
+PHONEPE PULSE DATA VISUALIZATION AND EXPLORATION : A USER FRIENDLY TOOL USING STREAMLIT AND PLOTLY

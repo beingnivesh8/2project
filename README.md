@@ -53,7 +53,3 @@ STEP 4 : With the assistance of Streamlit and Plotly, a dashboard and charts are
 # LESSONS LEARNED:
 
 Git Cloning, Python scripting, Data Collection, Data Management using SQL, Streamlit and Plotly.
-
-# LINK:
-
-http://localhost:8501

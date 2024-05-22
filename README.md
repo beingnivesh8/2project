@@ -1,7 +1,7 @@
 # 2project
 PHONEPE PULSE DATA VISUALIZATION AND EXPLORATION : A USER FRIENDLY TOOL USING STREAMLIT AND PLOTLY
 
-This project aims to develop a user-friendly Streamlit application that utilizes PhonePe Pulse dataset using Git cloning to extract information ,stores it in a SQL database and enable the users to get geoplots and other visualization elements for enhanced data exploration and insights in the Streamlit app.
+This project aims to develop a user-friendly Streamlit application that utilizes PhonePe Pulse dataset using Git cloning to extract information, stores it in a SQL database and enable the users to get geoplots and other visualization elements for enhanced data exploration and insights in the Streamlit app.
 
 # INTRODUCTION:
 

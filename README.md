@@ -56,4 +56,4 @@ Git Cloning, Python scripting, Data Collection, Data Management using SQL, Strea
 
 # LINK:
 
-http://localhost:8501/PHONEPE
+http://localhost:8501

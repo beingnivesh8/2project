@@ -20,22 +20,25 @@ PhonePe has become a preferred choice for millions of users, contributing to Ind
 
 # ESSENTIAL LIBRARIES:
 
-import os
-import json
-import git
-import pandas as pd
-import plotly.express as px
-import streamlit as st
-from streamlit_option_menu import option_menu
-import time
-import mysql.connector
-from sqlalchemy import create_engine
+import os, 
+import json, 
+import git, 
+import pandas as pd, 
+import plotly.express as px, 
+import streamlit as st, 
+from streamlit_option_menu import option_menu, 
+import time, 
+import mysql.connector and  
+from sqlalchemy import create_engine.
 
 # DATA SOURCE:
 
 The data utilized in this project predominantly consists of openly available datasets sourced from PhonePe - https://github.com/PhonePe/pulse
 
 # WORK FLOW:
+
+This project Clones the Git repository, processes the data, and stores it in the MYSQL database. It has the option to migrate the data to MySQL using SQLAlchemy then analyse the data and featuring geoplots and other visualization elements for enhanced data exploration, insights and also having Queries and answers in the streamlit. 
+The step by step procedures are shown below;
 
 STEP 1 : The data is extracted from the PhonePe Pulse GitHub repository and cloned to the local environment, ensuring access to the latest dataset for analysis.
 

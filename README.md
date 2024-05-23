@@ -5,7 +5,7 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 
 # INTRODUCTION:
 
-               PhonePe is a popular digital payments platform in India, offering a range of financial services through its mobile app. Users can make payments, transfer money, recharge phones, pay bills, invest, shop online, and more.
+PhonePe is a popular digital payments platform in India, offering a range of financial services through its mobile app. Users can make payments, transfer money, recharge phones, pay bills, invest, shop online, and more.
 PhonePe has become a preferred choice for millions of users, contributing to India's digital payments revolution.
 
 # FILES:
